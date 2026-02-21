@@ -1,0 +1,7 @@
+{
+  "name": "SASURIE HUB - Campus Management",
+  "description": "A comprehensive campus management system for SASURIE HUB featuring student/staff portals, attendance tracking, skill development, leave management, and automated internal marks calculation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
